@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://cs-ajaib.vercel.app/sitemap.xml
